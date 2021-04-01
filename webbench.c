@@ -38,7 +38,7 @@ int http10=1; /* 0 - http/0.9, 1 - http/1.0, 2 - http/1.1 */
 #define METHOD_HEAD 1
 #define METHOD_OPTIONS 2
 #define METHOD_TRACE 3
-#define PROGRAM_VERSION "1.5"
+#define PROGRAM_VERSION "1.6"
 int method=METHOD_GET;
 int clients=1;
 int force=0;
